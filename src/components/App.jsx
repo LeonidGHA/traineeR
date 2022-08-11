@@ -1,5 +1,6 @@
 import Header from './Header/Header';
 import Hero from './Hero/Hero';
+import Section1 from './Section1/Section1';
 
 export const App = () => {
   return (
@@ -15,6 +16,7 @@ export const App = () => {
     >
       <Header />
       <Hero />
+      <Section1 />
     </div>
   );
 };

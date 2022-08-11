@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  width: 36px;
+}
+.title {
+  text-align: left;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.33;
+
+  color: #091133;
+}
+.textDescription {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.62;
+
+  color: #6f7cb2;
+}
+.textListTitle {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+
+  color: #091133;
+}
+.textListDescription {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5;
+
+  color: #5d6970;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
