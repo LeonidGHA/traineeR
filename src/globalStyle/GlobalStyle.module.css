@@ -1,0 +1,18 @@
+:global(.title) {
+  text-align: left;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 1.33;
+  color: #091133;
+}
+
+:global(.textDescription) {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.62;
+  color: #6f7cb2;
+}

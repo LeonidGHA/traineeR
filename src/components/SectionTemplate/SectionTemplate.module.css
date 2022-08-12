@@ -1,11 +1,13 @@
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.containerSection1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 .icon {
   width: 36px;
 }
+
 .title {
   text-align: left;
 
@@ -17,16 +19,18 @@
 
   color: #091133;
 }
-.textDescription {
+
+.txt {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.62;
+
   color: #6f7cb2;
 }
 
-.textListTitle {
+.titleItem {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
@@ -35,7 +39,8 @@
 
   color: #091133;
 }
-.textListDescription {
+
+.descItem {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -44,8 +49,4 @@
 
   color: #5d6970;
 }
-.list {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+

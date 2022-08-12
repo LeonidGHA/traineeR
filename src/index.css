@@ -1,4 +1,4 @@
-@import 'modern-normalize/modern-normalize.css'; /* bring in normalize.css styles */
+@import 'modern-normalize/modern-normalize.css';
 
 body {
   margin: 0;
@@ -14,13 +14,12 @@ code {
     monospace;
 }
 
-ul {
+ul{
   list-style: none;
   padding: 0;
 }
 
-.container {
+.container{
   width: 1440px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 0 30px;
 }

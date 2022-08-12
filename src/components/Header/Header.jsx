@@ -1,15 +1,17 @@
-import Navigation from "components/Navigation/Navigation"
-import Logo from "components/Logo/Logo"
-import Button from "components/Button/Button"
-import css from "./Header.module.css"
+import Navigation from 'components/Navigation/Navigation';
+import Logo from 'components/Logo/Logo';
+import Button from 'components/Button/Button';
 
-function Header() {
+import s from './Header.module.css';
 
-    return (<header className={css.header}>
-        <Navigation/>
-        <Logo/>
-        <Button title="Buy Now"/>
-</header>) 
-}
+const Header = () => {
+  return (
+    <header className={s.header}>
+      <Navigation />
+      <Logo />
+      <Button title='Buy Now'/>
+    </header>
+  );
+};
 
-export default Header
+export default Header;
