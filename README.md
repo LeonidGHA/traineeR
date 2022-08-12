@@ -1,3 +1,8 @@
+https://www.figma.com/file/zH3S0wJoA4aD2E5GEiNnwv/Figma-Website-Template---Landie-Demo-(Community)?node-id=0%3A88
+
+Figma maket
+
+
 **Read in other languages: [Русский](README.md), [Polska](README.pl.md).**
 
 # React homework template
