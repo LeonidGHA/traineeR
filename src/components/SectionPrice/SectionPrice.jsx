@@ -1,5 +1,5 @@
 import s from './SectionPrice.module.css';
-import globalStyle from 'globalStyle/GlobalStyle.module.css';
+
 import Button from 'components/Button/Button';
 
 function SectionPrice() {
